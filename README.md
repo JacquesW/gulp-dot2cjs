@@ -1,6 +1,4 @@
 gulp-dot2cjs
 ============
 
-Precompile doT Templates to CommonJS Modules
-
-# Example
+A gulp plugin which precompiles doT templates to CommonJS modules
